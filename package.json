@@ -1,0 +1,12 @@
+{
+  "name": "bunny-marketing-site",
+  "version": "1.0.0",
+  "description": "A site for teaching marketing skills to small businesses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
